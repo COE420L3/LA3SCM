@@ -17,6 +17,7 @@ public class COE420L3A {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("member A");
+        System.out.println("member B");
     }
     
     
