@@ -20,6 +20,9 @@ public class COE420L3A {
         System.out.println("member B");
     }
     
+    public void addFeatureA(){
+        
+    }
     
     
 }
